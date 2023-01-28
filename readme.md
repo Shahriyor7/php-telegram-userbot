@@ -5,7 +5,7 @@ PHP Telegram userbot based on [MadelineProto](https://docs.madelineproto.xyz/) l
 # Install
 **1.** Clone this repository:
 ```bash
-git clone https://github.com/ryoishin/php-telegram-userbot.git userbot
+git clone https://github.com/Shahriyor7/php-telegram-userbot.git
 ```
 
 **2.** Go to downloaded folder:
@@ -102,8 +102,7 @@ Now, we can send a message with the text `.helloworld`, and it will be automatic
 
 
 # Credit
-* [PHP BOY](https://github.com/chipslays)
-* [RYOISHIN](https://github.com/ryoishin)
+* [SHAHRIYORBEK CODER](https://github.com/shahriyor7)
 
 
 
